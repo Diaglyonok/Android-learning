@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyList</string>
+    <string name="dialog_name">Введите информацию</string>
+    <string name="delete">Удалить</string>
+    <string name="btn_add">Добавить новый контакт</string>
+    <string name="clear_db">Удалить базу данных</string>
+
+</resources>

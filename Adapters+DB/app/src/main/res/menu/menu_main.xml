@@ -1,0 +1,13 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context="com.application.myapplication.MainActivity">
+
+    <item
+        android:icon="@drawable/ic_delete_sweep_white_36dp"
+        android:id="@+id/menuItemClearDatabase"
+        app:showAsAction="ifRoom"
+        android:orderInCategory="100"
+        android:title="@string/clear_db" />
+
+</menu>
